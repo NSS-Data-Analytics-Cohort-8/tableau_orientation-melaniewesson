@@ -1,3 +1,8 @@
 # tableau-orientation
 
-Link for dashboard: https://public.tableau.com/app/profile/melanie.wesson/viz/BestinShow-DogBreeds/Dogs1?publish=yes
+Link for dashboard: 
+
+1.
+https://public.tableau.com/views/BestinShow-DogBreeds/Dogs1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+2.
+https://public.tableau.com/views/BestinShow-DogBreedsPage2/Dogs2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
